@@ -55,18 +55,3 @@
       detail: Student
       i18n: company_d_job
     icon: fa-plus-square
-
-- name:
-      detail: University of Limerick (Ireland)
-      i18n: company_d
-    desc:
-      detail: Kerf is a laser cutter company and I worked as 
-
-      i18n: company_d_desc
-    date:
-      detail: Jun. 2011-2011
-      i18n: company_d_date
-    job:
-      detail: Intern
-      i18n: company_d_job
-    icon: fa-plus-square
