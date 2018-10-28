@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Beta Solutions Ltd
+    detail: Beta Solutions Ltd (New Zealand)
     i18n: company_a
   desc:
     detail: I worked at Beta Solutions Ltd as a Hardware Engineer for around 6 years. During this period I've been involved in developing a range of products and projects from home automation products through to agri tech projects.
     i18n: company_a_desc
   date:
-    detail: November. 2012 - December. 2018
+    detail: Nov. 2012 - Dec. 2018
     i18n: company_a_date
   job:
     detail: Hardware Engineer
@@ -21,7 +21,7 @@
     detail: I had the opportunity to take extended leave from my job in NZ and work part time at a Ski lodge in Switzerland (called the Kiwi Lodge). This job involved cleaning, helping with food preparation and general operations.
     i18n: company_b_desc
   date:
-    detail: December. 2015 - March. 2016
+    detail: Dec. 2015 - Mar. 2016
     i18n: company_b_date
   job:
     detail: Cleaner and Food Preperation
@@ -35,7 +35,7 @@
     detail: Studied Bachelor of Engineering Majoring in Mechatronics
     i18n: company_c_desc
   date:
-    detail: February. 2009- November. 2012
+    detail: Feb. 2009- Nov. 2012
     i18n: company_c_date
   job:
     detail: Student
@@ -49,7 +49,7 @@
     detail: I studied for one semester at the University of Limerick on an IEEE exchange scholarship
     i18n: company_d_desc
   date:
-    detail: Jun. 2011-2011 (One Semester)
+    detail: Aug. 2011 - Dec. 2011 (One Semester)
     i18n: company_d_date
   job:
     detail: Student
