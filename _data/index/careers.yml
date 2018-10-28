@@ -12,7 +12,7 @@
   job:
     detail: Hardware Engineer
     i18n: company_a_job
-  icon: fa-plus-squar
+  icon: fa-plus-square
 
 - name:
     detail: Kiwi Lodge (Switzerland)
