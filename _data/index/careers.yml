@@ -41,12 +41,12 @@
     detail: Student
     i18n: company_c_job
   icon: fa-plus-square
+
 - name:
       detail: University of Limerick (Ireland)
       i18n: company_d
     desc:
       detail: I studied for one semester at the University of Limerick on an IEEE exchange scholarship
-
       i18n: company_d_desc
     date:
       detail: Jun. 2011-2011 (One Semester)
