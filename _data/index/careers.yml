@@ -27,17 +27,3 @@
     detail: Cleaner and Food Preperation
     i18n: company_b_job
   icon: fa-plus-square
-
-  - name:
-    detail: Massey University (New Zealand)
-    i18n: company_c
-  desc:
-    detail: Studied Bachelor of Engineering Majoring in Mechatronics
-    i18n: company_c_desc
-  date:
-    detail: June. 2009-2012
-    i18n: company_c_date
-  job:
-    detail: Student
-    i18n: company_c_job
-  icon: fa-plus-square
