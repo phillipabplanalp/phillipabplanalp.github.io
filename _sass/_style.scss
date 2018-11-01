@@ -69,7 +69,11 @@ h3, h4, h5 {
 }
 
 .navbar-default {
+<<<<<<< HEAD
   background-color: #FFF;
+=======
+  background-color: transparent;
+>>>>>>> parent of 3b469fd... Update _sass/_style.scss
 }
 
 .nav > li > a i {
@@ -2753,7 +2757,7 @@ body {
       margin-top: 6px;
     }
     .navbar-default {
-      background-color: #fff;
+      background-color: #3385FF;
       border-color: #fff;
       padding: 15px 0;
       .navbar-nav > .active > a:focus {
