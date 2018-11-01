@@ -2434,7 +2434,7 @@ body {
       li > a {
         &:focus, &:hover {
           color: #3385FF;
-          background: inherit;
+          background: #fff;
         }
       }
       .active > a:focus {
