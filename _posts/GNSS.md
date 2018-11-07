@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-date:   2017-01-31
+date:   2017-04-34
 desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [Jalpc,Jekyll]
+keywords: GNSS, RTK, PPP,
+categories: GNSS
+tags:
 icon: icon-html
 ---
 

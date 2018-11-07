@@ -1,10 +1,10 @@
 # blog page sections
-- name: Blog
-  href: /blog/
+#- name: Blog
+#  href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Adventures
-  href: /adventures/
+#- name: Adventures
+#  href: /adventures/
 
-- name: Motor Racing
-  href: /motor racing/
+#- name: Motor Racing
+#  href: /motor racing/
