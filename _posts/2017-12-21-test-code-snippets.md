@@ -2,7 +2,10 @@
 layout: post
 title:  "code snippet test"
 date:   2017-12-21
+<<<<<<< HEAD
 website: https://www.betasolutions.co.nz/Blog/23/Formula-E-_-Racing-into-the-future
+=======
+>>>>>>> parent of a998f1f... Adding conditional statment to blogs
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
