@@ -22,7 +22,10 @@ permalink: /blog/
                     <div class="col-md-10">
                         <div class="vote-actions">
                         </div>
+                        {% if {post.website==null%}
                         <a href="{{ post.url | prepend: site.baseurl }}" class="vote-title">
+                          {%else%}
+                        <a href="{{ post.website }}" target="blank" class="vote-title">
                             {{ post.title }}
                         </a>
                         <div class="vote-info">
