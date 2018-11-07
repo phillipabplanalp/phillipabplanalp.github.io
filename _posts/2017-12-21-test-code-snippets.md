@@ -2,7 +2,7 @@
 layout: post
 title:  "code snippet test"
 date:   2017-12-21
-website:
+website: https://www.betasolutions.co.nz/Blog/23/Formula-E-_-Racing-into-the-future
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
