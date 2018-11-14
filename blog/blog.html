@@ -17,7 +17,7 @@ permalink: /blog/
 
             <!-- latest 10 blog -->
 			{% for post in site.posts limit:10 %}
-            <div class="vote-item">
+            <hr style="border: 1px solid black;">
                 <div class="row">
                     <div class="col-md-10">
                       <div class="vote-actions">
@@ -34,8 +34,8 @@ permalink: /blog/
                             <hr style="border: 1px solid black;">
                         </div>
                       </div>
-
-                    <div class="vote-item">
+                      </div>
+                      <hr style="border: 1px solid black;">
                   <div class="row">
                        <a href="https://www.betasolutions.co.nz/Blog/18/3D-Printing-_-The-Move-to-Mass-Production?" class="vote-title">
                             3D Printing - The Move to Mass Production?
@@ -48,9 +48,8 @@ permalink: /blog/
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
                             <hr style="border: 1px solid black;">
                         </div>
-                      </div>
-                      <div class="vote-item">
-                        <div class="row">
+                    </div>
+                    <div class="row">
                        <a href="https://www.betasolutions.co.nz/Blog/23/Formula-E-_-Racing-into-the-future" class="vote-title">
                             Formula E - Racing into the future
                         </a>
@@ -60,7 +59,6 @@ permalink: /blog/
                         {% endif %}
                             <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
-                            <div class="vote-item">
                             <hr style="border: 1px solid black;">
                         </div>
                     </div>
@@ -71,3 +69,10 @@ permalink: /blog/
                             {% if post.icon %}<i class="fa {{ post.icon }}"> </i>{% endif %}
                         </div>
                     </div>
+                </div>
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+
+</div>
