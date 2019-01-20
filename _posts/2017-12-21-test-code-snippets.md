@@ -1,21 +1,17 @@
 ---
 layout: post
-title:  "code snippet test"
+title:  "Robotic Lawn Mower"
 date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+desc: ""
+keywords: "RTK,GNSS,Robotics,Lawns"
 categories: [HTML]
-tags: [Jalpc,Jekyll]
+tags: []
 icon: icon-html
 ---
 
 This is a raw snippet:
 
-```
-hello world
-123
-This is a text snippet
-```
+<img src="{{ site.img_path }}/landing/CoverPhotos/1.JPG>
 
 
 This is a JavaScript snippet:
