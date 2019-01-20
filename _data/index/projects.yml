@@ -9,6 +9,6 @@
 
 - name: Test
   i18n: google
-  url: https://phillipabplanalp.github.io/html/2017/12/21/test-code-snippets.html
+  url: https://phillipabplanalp.github.io/html/Robotic-Lawn-Mower.html
   img: /static/assets/img/landing/google.png
   desc: This is another project.
