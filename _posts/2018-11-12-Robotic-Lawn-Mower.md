@@ -4,7 +4,7 @@ title:  "Robotic Lawn Mower"
 date:   2018-11-12
 desc: ""
 keywords: "RTK,GNSS,Robotics,Lawns"
-categories: [Robotics]
+categories: [robotics]
 tags: []
 icon: icon-html
 ---
