@@ -4,11 +4,11 @@
 - name: Robotic Lawn Mower
   i18n: google
   url: https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/North-Map-Exploded-Render-Compressed.JPG
   desc: This has been an on going project for around a year. The concept is based on programmed It makes use of the new ublox M8 RTK GNSS modules.
 
 - name: Test
   i18n: google
-  url: https://phillipabplanalp.github.io/html/Robotic-Lawn-Mower.html
-  img: /static/assets/img/landing/google.png
+  url: https://phillipabplanalp.github.io/mechatronics/2016/05/12/MTB-Electronic-Map-Aligner.html
+  img: /static/assets/img/landing/North-Map-Exploded-Render-Compressed.JPG
   desc: This is another project.
