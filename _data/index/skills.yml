@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: SolidWorks, Altium/Nexus, Electromechanical Design, GNSS, Cable and Connector Design, LT Spice, Python/Matlab/C#/C
+aspects: SolidWorks, Altium/Nexus, Electromechanical Design, Sensors, Additive Manufacturing, LT Spice, Python/Matlab/C#/C
 percentage: 100, 90, 90, 70, 60, 60, 40
