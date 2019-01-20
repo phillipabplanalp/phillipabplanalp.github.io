@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Robotic Lawn Mower"
-date:   2017-12-21
+title:  "Robotic Lawn Mower Test"
+date:   2019-01-10
 desc: ""
 keywords: "RTK,GNSS,Robotics,Lawns"
-categories: [HTML]
+categories: [Robotics]
 tags: []
 icon: icon-html
 ---
 
 This is a raw snippet:
-
 <img src="{{ site.img_path }}/landing/CoverPhotos/1.JPG">
 
 
