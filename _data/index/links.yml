@@ -1,12 +1,12 @@
 # links section data
 - last_name: Kiwi Lodge
   first_name:
-  desc:
+  desc: Ski Lodge
   website: https://www.kiwilodge.ch
-  email: TEST
+  email: kiwilodge@bluewin.ch
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Beta Solutions Ltd
+  first_name:
+  desc: Electronic Product Design
+  website: https://www.betasolutions.co.nz/
+  email: contact@betasolutions.co.nz
