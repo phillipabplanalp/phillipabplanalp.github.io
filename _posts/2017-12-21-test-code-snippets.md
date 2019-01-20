@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Robotic Lawn Mower"
-date:   2017-12-21
+date:   2017-12-11
 desc: ""
 keywords: "RTK,GNSS,Robotics,Lawns"
-categories: [HTML]
+categories: [Hardware]
 tags: []
 icon: icon-html
 ---
