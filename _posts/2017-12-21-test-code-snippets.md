@@ -11,7 +11,7 @@ icon: icon-html
 
 This is a raw snippet:
 
-<img src="{{ site.img_path }}/landing/CoverPhotos/1.JPG>
+<img src="{{ site.img_path }}/landing/CoverPhotos/1.JPG">
 
 
 This is a JavaScript snippet:
