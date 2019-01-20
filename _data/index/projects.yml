@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Robotic Lawn Mower
   i18n: google
-  url: https://phillipabplanalp.github.io/html/2017/12/21/test-code-snippets.html
+  url: https://phillipabplanalp.github.io/Robotics/2018/11/12/Robotic-Lawn-Mower.html
   img: /static/assets/img/landing/google.png
   desc: This has been an on going project for around a year. The concept is based on programmed It makes use of the new ublox M8 RTK GNSS modules.
 

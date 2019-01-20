@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Robotic Lawn Mower Test"
-date:   2019-01-10
+title:  "Robotic Lawn Mower"
+date:   2018-11-12
 desc: ""
 keywords: "RTK,GNSS,Robotics,Lawns"
 categories: [Robotics]
