@@ -21,14 +21,17 @@ With the mechanical designing having been somewhat constrained the core sensors 
 
 <img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="400"/>
 
-Next stage was to define the electronics architecture. This was split into three sperate modules, which are as follows:
+Next stage was to define the electronics architecture. This was split into three separate modules, which are as follows:
+1. Core Drive Module (CDM)
+The “Core Drive Module” is the main module on the rover and includes all the power electronics (BLDC controllers, SMPS and regulators), single board PC (running ROS), PSoC 5LP MCU (controlling low level tasks). The module also includes numerus connectors.  
+2. Positioning and Comms Module (PCM)
+The “Positioning and Comms Module” includes all the navigational components (RTK GNSS and 9 axis IMU) plus wireless communications needed to receive the correction data from the base station (required for full RTK).  The reason for splitting the PCM from the CDM was to reduce the EMI effects on noise sensitive components such as the U-blox NEO-08P.
+3. Positioning Base Station (PBM)
+The “Position Base Station” is essentially the same module as the “Position and Comms Module”. The difference being that the “Positioning Base Station” is in a fixed location transmitting the RTK error codes back to the rover (PCM).
+These are represented as follows:
 
-1.	Motor Drive Module
-        The “Motor Drive Module” includes all the power electronics (BLDC controllers, SMPS, and regulators), single board PC (running ROS), PSoC 5LP MCU (controlling low level tasks). The module would also include numerus connectors.
 
-2. Position and Comms Module (GNSS RTK Rover)
-
-3.	Position Base Station (GNSS RTK Base)
+<img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware" alt="drawing" width="900"/>
 
 This is a JavaScript snippet:
 
