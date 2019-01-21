@@ -15,7 +15,7 @@ Project Progress
 
 For the mechanical layout it was opted to use a differential steer setup with two individually driven BLDC hub motors on the rear and a single freewheeling jockey wheel at the front.  The differential steer layout offers simplicity, agility and allows for a compact overall design - as can be seen in the image below. The layout below also shows the basic positioning of the three individual cutter motors/blades (red circles) and the forward-facing Lidar.
 
-<img src="{{ site.img_path }}/blog/MowBot-Base.png"=20x>
+<img src="{{ site.img_path }}(/blog/MowBot-Base.png = 120x)"
 
 With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below:
 
