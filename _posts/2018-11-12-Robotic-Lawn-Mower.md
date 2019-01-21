@@ -15,16 +15,17 @@ Project Progress
 
 For the mechanical layout it was opted to use a differential steer setup with two individually driven BLDC hub motors on the rear and a single freewheeling jockey wheel at the front.  The differential steer layout offers simplicity, agility and allows for a compact overall design - as can be seen in the image below. The layout below also shows the basic positioning of the three individual cutter motors/blades (red circles) and the forward-facing Lidar.
 
-<img src="{{ site.img_path }}/blog/MowBot-Base.png">
+<img src="{{ site.img_path }}/blog/MowBot-Base.png"=150x>
 
 With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below:
 
-<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png">
+<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" =250x>
 
 Next stage was to define the electronics architecture. This was split into three sperate modules, which are as follows:
-1.	Motor Drive Module
 
-The “Motor Drive Module” includes all the power electronics (BLDC controllers, SMPS, and regulators), single board PC (running ROS), PSoC 5LP MCU (controlling low level tasks). The module would also include numerus connectors.  
+1.	Motor Drive Module
+        The “Motor Drive Module” includes all the power electronics (BLDC controllers, SMPS, and regulators), single board PC (running ROS), PSoC 5LP MCU (controlling low level tasks). The module would also include numerus connectors.
+
 2. Position and Comms Module (GNSS RTK Rover)
 
 3.	Position Base Station (GNSS RTK Base)
