@@ -31,7 +31,7 @@ The “Position Base Station” is essentially the same module as the “Positio
 These are represented as follows:
 
 
-<img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware" alt="drawing" width="900"/>
+<img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
 This is a JavaScript snippet:
 
