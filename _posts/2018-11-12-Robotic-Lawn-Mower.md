@@ -8,6 +8,13 @@ categories: [robotics]
 tags: []
 icon: icon-html
 ---
+<style>
+p.ex1 {
+  padding: 200px;
+}
+</style>
+
+<p class="ex1">
 
 Project Progress
 ================
@@ -46,14 +53,12 @@ These are represented as follows:
 
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
-<style>
-p.ex1 {
-  padding: 150px;
-}
-</style>
 
 
-<p class="ex1"> Still in progress, more to be added soon!</p>
+Still in progress, more to be added soon!
+
+
+ </p>
 
 
 
