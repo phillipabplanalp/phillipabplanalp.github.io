@@ -10,7 +10,10 @@ icon: icon-html
 ---
 <style>
 p.ex1 {
-  padding: 200px;
+  padding-top: 50px;
+  padding-right: 250px;
+  padding-bottom: 50px;
+  padding-left: 250px;
 }
 </style>
 
