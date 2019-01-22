@@ -27,9 +27,10 @@ p.ex2 {
 
 <p class="ex1">
 <h1>Project Progress</h1>
-
-<h2>Architectural layout</h2>
 </p>
+
+                            <h2>Architectural layout</h2>
+
 
 <p class="ex1">
 
