@@ -45,8 +45,7 @@ div.d {
 <body>
 <div class = "d">
 <h1>Project Progress</h1>
-</body>
-<body>
+
 <h2>Architectural layout</h2>
 </body>
 
@@ -62,14 +61,18 @@ For the mechanical layout it was opted to use a differential steer setup with tw
  </p>
 
   <p class="ex1">
+
 With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below:
 
 </p>
 
-
+<p class="ex1">
 <img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="400"/>
+</p>
 
+<p class="ex1">
 Next stage was to define the electronics architecture. This was split into three separate modules, which are as follows:
+
 
 1. **Core Drive Module (CDM)**
 
@@ -82,7 +85,7 @@ Next stage was to define the electronics architecture. This was split into three
 3. **Positioning Base Station (PBM)**
 
      The “Position Base Station” is essentially the same module as the “Position and Comms Module”. The difference being that the “Positioning Base Station” is in a fixed location transmitting the RTK error codes back to the rover (PCM).
-
+</p>
 
 These are represented as follows:
 
