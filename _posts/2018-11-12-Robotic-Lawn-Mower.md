@@ -46,7 +46,16 @@ These are represented as follows:
 
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
-Still in progress, more to be added soon!
+<style>
+p.ex1 {
+  padding: 50px;
+}
+</style>
+
+
+<p class="ex1"> Still in progress, more to be added soon!</p>
+
+
 
 
 
