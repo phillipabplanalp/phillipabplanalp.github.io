@@ -25,11 +25,11 @@ p.ex2 {
 
 
 
-                      Project Progress
-                      ================
+<p class="ex1">
+<h1>Project Progress</h1>
 
-
-                      ## Architectural layout
+<h2>Architectural layout</h2>
+</p>
 
 <p class="ex1">
 
