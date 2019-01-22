@@ -13,10 +13,11 @@ Project Progress
 ================
 ## Architectural layout
 
-div { column- width: 100px;
+|||---|||
 For the mechanical layout it was opted to use a differential steer setup with two individually driven BLDC hub motors on the rear and a single freewheeling jockey wheel at the front.  The differential steer layout offers simplicity, agility and allows for a compact overall design - as can be seen in the image below. The layout below also shows the basic positioning of the three individual cutter motors/blades (red circles) and the forward-facing Lidar.
 
-}
+|||---|||
+
 <img src="{{ site.img_path }}/blog/MowBot-Base.png" alt="drawing" width="400"/>
 
 div {
@@ -35,7 +36,7 @@ Next stage was to define the electronics architecture. This was split into three
 2. **Positioning and Comms Module (PCM)**
 
      The “Positioning and Comms Module” includes all the navigational components (RTK GNSS and 9 axis IMU) plus wireless communications needed to receive the correction data from the base station (required for full RTK).  The reason for splitting the PCM from the CDM was to reduce the EMI effects on noise sensitive components such as the U-blox NEO-08P.
-     
+
 3. **Positioning Base Station (PBM)**
 
      The “Position Base Station” is essentially the same module as the “Position and Comms Module”. The difference being that the “Positioning Base Station” is in a fixed location transmitting the RTK error codes back to the rover (PCM).
