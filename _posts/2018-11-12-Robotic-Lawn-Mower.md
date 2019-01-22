@@ -47,7 +47,7 @@ div.d {
 <h1>Project Progress</h1>
 
 <h2>Architectural layout</h2>
-</body>
+
 
 <p class="ex1">
 
@@ -89,9 +89,11 @@ Next stage was to define the electronics architecture. This was split into three
 
 These are represented as follows:
 
+<p class="ex1">
 
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
+</p>
 
 
 Still in progress, more to be added soon!
@@ -99,8 +101,7 @@ Still in progress, more to be added soon!
 
 
 </div>
-
-
+</body>
 
 
 ---
