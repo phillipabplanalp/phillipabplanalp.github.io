@@ -8,6 +8,7 @@ categories: [robot]
 tags: []
 icon: icon-html
 ---
+--Text---
 <style>
 p.ex1 {
   padding-top: 10px;
@@ -24,12 +25,38 @@ p.ex2 {
 </style>
 
 
+--Headings
+<style>
+h1{
+  padding-top: 50px;
+  padding-right: 250px;
+  padding-bottom: 50px;
+  padding-left: 250px;
+}
 
-<p class="ex1">
+h2{
+  padding-top: 50px;
+  padding-right: 250px;
+  padding-bottom: 50px;
+  padding-left: 250px;
+}
+</style>
+
+
+
+</head>
+<body>
 <h1>Project Progress</h1>
-</p>
+</body>
+</html>
 
-                            <h2>Architectural layout</h2>
+</head>
+<body>
+<h2>Architectural layout</h2>
+</body>
+</html>
+
+
 
 
 <p class="ex1">
