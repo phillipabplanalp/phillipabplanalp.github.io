@@ -26,19 +26,24 @@ p.ex2 {
 <style>
 h1{
   padding-top: 5px;
-  padding-right: 400px;
+  padding-right: 450px;
   padding-bottom: 5px;
-  padding-left: 400px;
+  padding-left: 450px;
 }
 
 h2{
   padding-top: 5px;
-  padding-right: 400px;
+  padding-right: 450px;
   padding-bottom: 5px;
-  padding-left: 400px;
+  padding-left: 450px;
 }
+div.d {
+  text-align: justify;
+}
+
 </style>
 <body>
+<div class = "d">
 <h1>Project Progress</h1>
 </body>
 <body>
@@ -48,7 +53,6 @@ h2{
 <p class="ex1">
 
 For the mechanical layout it was opted to use a differential steer setup with two individually driven BLDC hub motors on the rear and a single freewheeling jockey wheel at the front.  The differential steer layout offers simplicity, agility and allows for a compact overall design - as can be seen in the image below. The layout below also shows the basic positioning of the three individual cutter motors/blades (red circles) and the forward-facing Lidar.
-
  </p>
 
  <p class="ex1">
@@ -91,7 +95,7 @@ Still in progress, more to be added soon!
 
 
 
-
+</div>
 
 
 
