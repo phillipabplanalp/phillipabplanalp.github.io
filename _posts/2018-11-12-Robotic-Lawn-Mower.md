@@ -18,6 +18,7 @@ For the mechanical layout it was opted to use a differential steer setup with tw
 
 |||---|||
 
+
 <img src="{{ site.img_path }}/blog/MowBot-Base.png" alt="drawing" width="400"/>
 
 div {
@@ -48,5 +49,9 @@ These are represented as follows:
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
 Still in progress, more to be added soon!
+
+|||---||| :6,3
+#### Right
+|||---|||
 
 ---
