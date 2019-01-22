@@ -11,9 +11,9 @@ icon: icon-html
 <style>
 p.ex1 {
   padding-top: 10px;
-  padding-right: 400px;
+  padding-right: 450px;
   padding-bottom: 10px;
-  padding-left: 400px;
+  padding-left: 450px;
 }
 p.ex2 {
   padding-top: 50px;
@@ -32,29 +32,18 @@ h1{
 }
 
 h2{
-  padding-top: 10px;
+  padding-top: 5px;
   padding-right: 400px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   padding-left: 400px;
 }
 </style>
-
-
-
-</head>
 <body>
 <h1>Project Progress</h1>
 </body>
-</html>
-
-</head>
 <body>
 <h2>Architectural layout</h2>
 </body>
-</html>
-
-
-
 
 <p class="ex1">
 
