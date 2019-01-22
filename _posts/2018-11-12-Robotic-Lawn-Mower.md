@@ -10,6 +10,12 @@ icon: icon-html
 ---
 <style>
 p.ex1 {
+  padding-top: 10px;
+  padding-right: 350px;
+  padding-bottom: 10px;
+  padding-left: 350px;
+}
+p.ex2 {
   padding-top: 50px;
   padding-right: 250px;
   padding-bottom: 50px;
