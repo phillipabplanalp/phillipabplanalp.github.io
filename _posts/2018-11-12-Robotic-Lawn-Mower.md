@@ -114,24 +114,6 @@ These are represented as follows:
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/> <br>
 </p>
 <p class="ex2">
-<h2 Positioning & Comms Module: /h2>
-
-The Positioning & Comms Module has been has four key components:
-
-
-
-
-<p class="ex1">
-<iframe width="640" height="480" src="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
-
-<p class="ex1">
-Testing of U-blox neo M8P on the Positioning & Comms PCB using U-blox U-Centre <br>
-</p>
-
-<p class="ex2">
-<img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/> <br>
-</p>
 <h2> Positioning & Comms Module</h2>
 <p class="ex1">
 
