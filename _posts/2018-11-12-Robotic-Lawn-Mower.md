@@ -87,14 +87,28 @@ Next stage was to define the electronics architecture. This was split into three
      The “Position Base Station” is essentially the same module as the “Position and Comms Module”. The difference being that the “Positioning Base Station” is in a fixed location transmitting the RTK error codes back to the rover (PCM).
 </p>
 
+<p class="ex1">
 These are represented as follows:
+</p>
 
 <p class="ex1">
-
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
 </p>
 
+
+<p  class="ex1"class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</p>
+
+
+<p class="ex1" style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Positioning and Comms Module</a>
+    by <a href="https://sketchfab.com/SonicZoom?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SonicZoom</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+
+</p>
+</div>
 
 Still in progress, more to be added soon!
 
@@ -102,6 +116,3 @@ Still in progress, more to be added soon!
 
 </div>
 </body>
-
-
----
