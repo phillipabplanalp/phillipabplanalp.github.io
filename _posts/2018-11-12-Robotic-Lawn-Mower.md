@@ -116,21 +116,10 @@ These are represented as follows:
 </p>
 
 
-<p class="ex1"  class="sketchfab-embed-wrapper" /p> <iframe width="640" height="480" src="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<p class="ex1">
+<class="sketchfab-embed-wrapper" /p> <iframe width="640" height="480" src="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
-
-<div class="ex1"> <a style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Positioning and Comms Module</a>
-    by <a href="https://sketchfab.com/SonicZoom?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SonicZoom</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-
-   </div>
-
-
-</p>
-</div>
 
 Still in progress, more to be added soon!
 
