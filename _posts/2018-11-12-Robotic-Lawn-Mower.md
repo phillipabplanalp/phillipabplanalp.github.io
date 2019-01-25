@@ -107,7 +107,7 @@ Next stage was to define the electronics architecture. This was split into three
 </ol>
 
 <p class="ex1">
-These are represented as follows:<br>
+These are represented as follows:
 </p>
 
 <p class="ex2">
