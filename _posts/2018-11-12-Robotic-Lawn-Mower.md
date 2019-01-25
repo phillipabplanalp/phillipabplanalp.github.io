@@ -120,10 +120,10 @@ These are represented as follows:
 As outlined above, the "Positioning & Comms Module" is the core navigational sensor on the "rover", it will provide cm level positional accuracy(+-2.5cm) through RTK GNSS and magnetometer heading angle. For RTK GNSS to work, it requires a continues stream of correction data to be sent from a fixed known location (base station) to the "rover" so some form of wireless communication required to relay this information on. The key components that have been chosen for this module are:
 
 <ol>
-  <li> 9 axis IMU - ST LSM9DS1TR - First stage only the magnetometer will be used.
-  <li> GNSS Module - NEO-M8P-0 - Provides high level of positional accuracy.
-  <li> Wireless Comms - Microchip LoRa RN2903A – facilitates communication to base station.
-  <li> MCU - Cypress PSoC 4 CY8C4245AZI-473 - Handles communication between NEO-M8P, LoRa module, Core Drive Module and IMU.   </li></br>
+  <li> 9 axis IMU - ST LSM9DS1TR - First stage only the magnetometer will be used.</li>
+  <li> GNSS Module - NEO-M8P-0 - Provides high level of positional accuracy.</li>
+  <li> Wireless Comms - Microchip LoRa RN2903A – facilitates communication to base station.</li>
+  <li> MCU - Cypress PSoC 4 CY8C4245AZI-473 - Handles communication between NEO-M8P, LoRa module, Core Drive Module and IMU.   </li><br>
 <ol>
 
 
@@ -144,7 +144,7 @@ Assembled PCB and Connector. Started testing of U-blox neo M8P on the Positionin
 </p>
 
 <p class="ex1">
-<img src="{{ site.img_path }}/blog/Testing Pos Module.jpg" alt="drawing" width="400" transform: rotate(90deg); /> <br>
+<img src="{{ site.img_path }}/blog/Testing Pos Module.png" alt="drawing" width="400" /> <br>
 </p>
 <p class="ex1">
 
