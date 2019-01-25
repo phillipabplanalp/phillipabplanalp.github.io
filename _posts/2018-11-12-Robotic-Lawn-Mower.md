@@ -17,7 +17,6 @@ p.ex1 {
 
 
 }
-
 p.ex2 {
   padding-top: 50px;
   padding-right: 250px;
@@ -25,26 +24,21 @@ p.ex2 {
   padding-left: 250px;
 }
 </style>
-<head>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        .imgbox {
-            display: grid;
-            height: 100%;
-        }
-        .center-fit {
-            max-width: 100%;
-            max-height: 100px;
-            margin: auto;
-        }
-    </style>
-</head>
-
 
 <style>
+ol {
+ width: 100%;
+  margin-left: auto;
+   margin-right: auto;
+  max-width: 800px
+}
+
+ol li {
+ width: 100%;
+  margin-left: auto;
+   margin-right: auto;
+  max-width: 800px
+}
 h1{
  width: 100%;
   margin-left: auto;
@@ -77,9 +71,9 @@ For the mechanical layout it was opted to use a differential steer setup with tw
  </p>
 
  <p class="ex1">
- <div class="imgbox">
-<img class="center fit"  src="{{ site.img_path }}/blog/MowBot-Base.png"/>
-</div>
+
+<img src="{{ site.img_path }}/blog/MowBot-Base.png" alt="drawing" width="300"/>
+
  </p>
 
   <p class="ex1">
@@ -89,11 +83,12 @@ With the mechanical designing having been somewhat constrained the core sensors 
 </p>
 
 <p class="ex1">
-<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="400"/>
+<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="300"/>
 </p>
 
 <p class="ex1">
 Next stage was to define the electronics architecture. This was split into three separate modules, which are as follows:
+</p>
 
 <ol>
   <li> <b> Core Drive Module (CDM) </b> <br>
@@ -108,13 +103,14 @@ Next stage was to define the electronics architecture. This was split into three
 <li> <b> Positioning Base Station (PBM) </b> <br>
 
      The “Position Base Station” is essentially the same module as the “Position and Comms Module”. The difference being that the “Positioning Base Station” is in a fixed location transmitting the RTK error codes back to the rover (PCM). </li>
-</p>
+
+</ol>
 
 <p class="ex1">
 These are represented as follows:
 </p>
 
-<p class="ex1">
+<ol class="ex2">
 <img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
 
 </p>
@@ -125,10 +121,13 @@ These are represented as follows:
 </p>
 
 
-<p class="ex1" style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+<div class="ex1"> <a style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Positioning and Comms Module</a>
     by <a href="https://sketchfab.com/SonicZoom?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SonicZoom</a>
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+
+   </div>
+
 
 </p>
 </div>
