@@ -3,7 +3,7 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/CoverPhotos/1.JPG
-  title: first banner image
+  title: First banner image
 
 - src: landing/CoverPhotos/2.JPG
   title: Second banner image
@@ -15,4 +15,4 @@
   title: Fourth banner image
 
 - src: landing/CoverPhotos/5.JPG
-  title: Sixed banner image
+  title: Fifthed banner image
