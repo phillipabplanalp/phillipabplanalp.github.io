@@ -123,9 +123,10 @@ As outlined above, the "Positioning & Comms Module" is the core navigational sen
   <li> 9 axis IMU - ST LSM9DS1TR - First stage only the magnetometer will be used.
   <li> GNSS Module - NEO-M8P-0 - Provides high level of positional accuracy.
   <li> Wireless Comms - Microchip LoRa RN2903A – facilitates communication to base station.
-  <li> MCU - Cypress PSoC 4 CY8C4245AZI-473 - Handles communication between NEO-M8P, LoRa module, Core Drive Module and IMU.
+  <li> MCU - Cypress PSoC 4 CY8C4245AZI-473 - Handles communication between NEO-M8P, LoRa module, Core Drive Module and IMU.   </li></br>
+<ol>
 
-</ol>
+
 <p class="ex1">
 
 PCB imported into Solidworks to double checked component clearances to enclosure- See interactive 3D model of PCB and Cinch Enclosure.
