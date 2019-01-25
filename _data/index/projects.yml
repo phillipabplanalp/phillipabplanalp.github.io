@@ -5,7 +5,7 @@
   i18n: google
   url: https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html
   img: /static/assets/img/landing/North-Map-Exploded-Render-Compressed.png
-  desc: This has been an on going project for around a year. The concept is based on programmed It makes use of the new ublox M8 RTK GNSS modules.
+  desc: This has been an on going project for a bit over a year. The concept is to use the Ublox M8P (F9 now) RTK GNSS modules to guide a small electric powered mower around a predetermined path with a number of sensors for perception and obstacle avoidance
 
 - name: Test
   i18n: google
