@@ -24,6 +24,7 @@ p.ex2 {
   padding-bottom: 50px;
   padding-left: 250px;
 }
+</style>
 <head>
     <style>
         * {
@@ -36,12 +37,12 @@ p.ex2 {
         }
         .center-fit {
             max-width: 100%;
-            max-height: 100vh;
+            max-height: 100px;
             margin: auto;
         }
     </style>
 </head>
-</style>
+
 
 <style>
 h1{
@@ -76,9 +77,9 @@ For the mechanical layout it was opted to use a differential steer setup with tw
  </p>
 
  <p class="ex1">
-
+ <div class="imgbox">
 <img class="center fit"  src="{{ site.img_path }}/blog/MowBot-Base.png"/>
-
+</div>
  </p>
 
   <p class="ex1">
