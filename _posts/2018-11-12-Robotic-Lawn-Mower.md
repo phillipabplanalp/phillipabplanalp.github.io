@@ -78,12 +78,12 @@ For the mechanical layout it was opted to use a differential steer setup with tw
 
   <p class="ex1">
 
-With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below: <br>
+With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below: <br><br>
 
 </p>
 
 <p class="ex1">
-<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="300"/> <br>
+<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="300"/> <br><br>
 </p>
 
 <p class="ex1">
@@ -116,7 +116,7 @@ These are represented as follows:<br>
 
 
 <p class="ex1">
-<class="sketchfab-embed-wrapper"> <iframe width="640" height="480" src="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="640" height="480" src="https://sketchfab.com/models/b04675d7dd3a4dbdbd7963be850abe44/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 
