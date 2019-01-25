@@ -144,7 +144,7 @@ Assembled PCB and Connector. Started testing of U-blox neo M8P on the Positionin
 </p>
 
 <p class="ex1">
-<img src="{{ site.img_path }}/blog/Testing Pos Module.jpg" alt="drawing" width="400"/> <br>
+<img src="{{ site.img_path }}/blog/Testing Pos Module.jpg" alt="drawing" width="400" transform: rotate(90deg); /> <br>
 </p>
 <p class="ex1">
 
