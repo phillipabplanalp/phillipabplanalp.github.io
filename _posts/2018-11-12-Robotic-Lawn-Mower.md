@@ -72,18 +72,18 @@ For the mechanical layout it was opted to use a differential steer setup with tw
 
  <p class="ex1">
 
-<img src="{{ site.img_path }}/blog/MowBot-Base.png" alt="drawing" width="300"/>
+<img src="{{ site.img_path }}/blog/MowBot-Base.png" alt="drawing" width="300"/><br>
 
  </p>
 
   <p class="ex1">
 
-With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below:
+With the mechanical designing having been somewhat constrained the core sensors and actuators could be considered - these are listed below: <br>
 
 </p>
 
 <p class="ex1">
-<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="300"/>
+<img src="{{ site.img_path }}/blog/MowBot-Core List of Sensors and Actuators.png" alt="drawing" width="300"/> <br>
 </p>
 
 <p class="ex1">
@@ -107,12 +107,11 @@ Next stage was to define the electronics architecture. This was split into three
 </ol>
 
 <p class="ex1">
-These are represented as follows:
+These are represented as follows:<br>
 </p>
 
-<ol class="ex2">
-<img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/>
-
+<p class="ex2">
+<img src="{{ site.img_path }}/blog/MowBot-Electronics Hardware.png" alt="drawing" width="1000"/> <br>
 </p>
 
 
