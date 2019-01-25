@@ -17,12 +17,30 @@ p.ex1 {
 
 
 }
+
 p.ex2 {
   padding-top: 50px;
   padding-right: 250px;
   padding-bottom: 50px;
   padding-left: 250px;
 }
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
+    </style>
+</head>
 </style>
 
 <style>
@@ -59,7 +77,7 @@ For the mechanical layout it was opted to use a differential steer setup with tw
 
  <p class="ex1">
 
-<img src="{{ site.img_path }}/blog/MowBot-Base.png" alt="drawing" width="400"/>
+<img class="center fit"  src="{{ site.img_path }}/blog/MowBot-Base.png"/>
 
  </p>
 
