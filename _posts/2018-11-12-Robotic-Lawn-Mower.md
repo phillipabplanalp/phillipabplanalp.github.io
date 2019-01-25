@@ -10,10 +10,12 @@ icon: icon-html
 ---
 <style>
 p.ex1 {
-  padding-top: 10px;
-  padding-right: 450px;
-  padding-bottom: 10px;
-  padding-left: 450px;
+ width: 100%;
+  margin-left: auto;
+   margin-right: auto;
+  max-width: 800px;
+
+
 }
 p.ex2 {
   padding-top: 50px;
@@ -25,21 +27,22 @@ p.ex2 {
 
 <style>
 h1{
-  padding-top: 5px;
-  padding-right: 450px;
-  padding-bottom: 5px;
-  padding-left: 450px;
+ width: 100%;
+  margin-left: auto;
+   margin-right: auto;
+  max-width: 800px;
 }
 
 h2{
-  padding-top: 5px;
-  padding-right: 450px;
-  padding-bottom: 5px;
-  padding-left: 450px;
+ width: 100%;
+  margin-left: auto;
+   margin-right: auto;
+  max-width: 800px;
 }
 div.d {
   text-align: justify;
 }
+
 
 </style>
 <body>
