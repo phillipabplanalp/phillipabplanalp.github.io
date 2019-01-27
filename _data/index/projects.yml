@@ -4,8 +4,14 @@
 - name: Robotic Lawn Mower
   i18n: google
   url: https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html
-  img: /static/assets/img/landing/North-Map-Exploded-Render-Compressed.png
+  img: /static/assets/img/landing/MotorDrive.jpg
   desc: This has been an on going project for a bit over a year. The concept is to use the Ublox M8P (now F9) RTK GNSS modules to guide a small electric powered mower around a predetermined path with a number of sensors for perception and obstacle avoidance
+
+- name: Final Year University Project
+  i18n: google
+  url: https://phillipabplanalp.github.io/robotics/2011-11-01-Final-Year-Project.html
+  img: /static/assets/img/landing/FinalYearProject.jpg
+  desc: This is another project.
 
 - name: Test
   i18n: google
