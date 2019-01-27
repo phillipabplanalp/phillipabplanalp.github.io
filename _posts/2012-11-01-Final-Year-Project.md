@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Final Year University Project - Outdoor Robot"
-date:   2016-05-12
+date:   2012-11-01
 desc: ""
 keywords: "GNSS,Robotics"
 categories: [robotics]
@@ -23,19 +23,19 @@ p.ex2 {
   padding-bottom: 50px;
   padding-left: 250px;
 }
-</style>
+
 div.d {
   text-align: justify;
 }
 </style>
 <body>
 <div class = "d">
-
-
 <h1> Final Year Project Report </h1>
 
 <p class="ex1">
 <a href= ="https://drive.google.com/open?id=0B0ZJQaZUAgXhRVVOZDRtRVVPMGVhZ0NuT1o3eFJqMTdwMWZZ">Copy of the report can be found here</a>
+</p>
+
 
 <p class="ex1">
 
