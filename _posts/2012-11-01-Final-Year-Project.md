@@ -30,7 +30,7 @@ div.d {
 </style>
 <body>
 <div class = "d">
-<h1> Final Year Project Report </h1>
+
 
 <p class="ex1">
 
