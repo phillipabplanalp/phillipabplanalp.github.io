@@ -7,7 +7,7 @@
   img: /static/assets/img/landing//MotorDrive.JPG
   desc: This has been an on going project for a bit over a year. The concept is to use the Ublox M8P (now F9) RTK GNSS modules to guide a small electric powered mower around a predetermined path with a number of sensors for perception and obstacle avoidance
 
-- name: Final Year Project
+- name:  Final Year Project
   i18n: google
   url: https://phillipabplanalp.github.io/robotics/2012-11-01-Final-Year-Project.html
   img: /static/assets/img/landing/FinalYearProject.jpg
