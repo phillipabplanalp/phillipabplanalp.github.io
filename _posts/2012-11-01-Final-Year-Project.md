@@ -33,7 +33,8 @@ div.d {
 <h1> Final Year Project Report </h1>
 
 <p class="ex1">
-<a href= ="https://drive.google.com/open?id=0B0ZJQaZUAgXhRVVOZDRtRVVPMGVhZ0NuT1o3eFJqMTdwMWZZ">Copy of the report can be found here</a>
+
+<a href="https://drive.google.com/open?id=0B0ZJQaZUAgXhRVVOZDRtRVVPMGVhZ0NuT1o3eFJqMTdwMWZZ"> Copy of the report can be found here </a>
 </p>
 
 
