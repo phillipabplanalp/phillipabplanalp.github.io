@@ -9,12 +9,12 @@
 
 - name:  Final Year Project
   i18n: google
-  url: https://phillipabplanalp.github.io/robotics/2012-11-01-Final-Year-Project.html
+  url: https://phillipabplanalp.github.io/robotics/2012/11/01/Final-Year-Project.html
   img: /static/assets/img/landing/FinalYearProject.jpg
   desc: Final year University project.
 
 - name: Miscellaneous Undocumented Projects
   i18n: google
-  url: https://phillipabplanalp.github.io/misc/2018-11-05-Miscellaneous-Undocumented-Projects.html
+  url: https://phillipabplanalp.github.io/misc/Miscellaneous-Undocumented-Projects.html
   img: /static/assets/img/landing/North-Map-Exploded-Render-Compressed.png
   desc: Range of undocumented projects which I've worked on.
