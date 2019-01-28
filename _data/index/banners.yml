@@ -5,7 +5,7 @@
 - src: landing/CoverPhotos/1.jpg
   title: First banner image
 
-- src: landing/CoverPhotos/2.jpg
+- src: landing/CoverPhotos/2.JPG
   title: Second banner image
 
 - src: landing/CoverPhotos/3.jpg
@@ -13,3 +13,6 @@
 
 - src: landing/CoverPhotos/4.jpg
   title: Fourth banner image
+
+- src: landing/CoverPhotos/5.JPG
+  title: Fifthed banner image
