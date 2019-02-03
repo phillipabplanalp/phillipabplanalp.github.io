@@ -70,7 +70,7 @@ div.d {
       <h2>House Renovations</h2>
       <p class="ex1">
       <font face = "Verdana" size =" 2">Date: 2015-2019</font><br /><br>
-      I bought a house in Palmerston North in mid 2015 and have been doing a number of renovations to it over this time. I'm current busy renovating the bathroom. <br>
+      I bought a house in Palmerston North in mid 2015 and have been doing a number of renovations to it over this period. I'm currently busy renovating the bathroom. <br>
 
       <h2>Robotic Lawn Mower v2.0</h2>
       <p class="ex1">
@@ -78,7 +78,7 @@ div.d {
        This project was a continuation of the robotic lawn mover v1.0, with many learnings from years of industry experience. This makes use of the most recent developments in low cost RTK GNSS receivers from Ublox. <a href="https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html"> I have started documenting this in more detail here</a><br>
 
   <p class="ex1">
-    <img src="{{ site.img_path }}landing/CoverPhotos/3.jpg" alt="drawing" width="700" /> <br>
+    <img src="{{ site.img_path }}/landing/CoverPhotos/3.jpg" alt="drawing" width="700" /> <br>
   </p>
 
      <h2> North Aligning Map Holder </h2>
@@ -88,7 +88,7 @@ div.d {
         For Mountain Biking Orienteering and Adventure racing you use what is know as "Map Holder" (see left most image) which is essentially a mechanical mechanism that holds maps and allows you to rotate the map to keep the map facing north. The idea of this project was to Electromechanical control the map holder to always stay facing north. To do this I used a magnetometer (sense magnetic north) and a stepper motor to rotate the map to stay facing north<br>
 
           <p class="ex1">
-    <img src="{{ site.img_path }}landing/CoverPhotos/1.jpg" alt="drawing" width="700" /> <br>
+    <img src="{{ site.img_path }}/landing/CoverPhotos/1.jpg" alt="drawing" width="700" /> <br>
   </p>
 
 
@@ -115,7 +115,7 @@ div.d {
 
       <h2> Engine Dyno </h2>
       <p class="ex1">
-      <font face = "Verdana" size =" 2">Date: 2005 - 2006 </font><br /><br>
+      <font face = "Verdana" size =" 2">Date: 2005-2006 </font><br /><br>
 
 
        This was a project to build a test bench for testing our kart racing engines. It was designed to be an inertia-based dyno, using two old truck flywheels as its accelerating inertia. Using the equation τ = Iα the torque could be calculated. Using RPM and torque, power can be calculated . <br>
@@ -124,7 +124,7 @@ div.d {
        <p class="ex1">
        <font face = "Verdana" size =" 2">Date: 2004</font><br /><br>
 
-       This was designed and built by my brother(12y) and I(14y) to carry two karts + spare part. The images below show the trailer bare frame prior to it being enclosed<br>
+       This was designed and built by my brother(12y) and I(14y) to carry two karts + spare parts. The images below show the trailer bare frame prior to it being enclosed<br>
 
 
        <h2>Radio-Controlled Model Airplane</h2>
