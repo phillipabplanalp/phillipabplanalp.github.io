@@ -13,8 +13,8 @@
   img: /static/assets/img/landing/FinalYearProject.jpg
   desc: Final year University project.
 
-- name: Miscellaneous Undocumented Projects
+- name: Project Summary
   i18n: google
   url: https://phillipabplanalp.github.io/misc/Project_Summary.html
   img: /static/assets/img/landing/RC.jpg
-  desc: A number of undocumented projects which I've worked on.
+  desc: Summary of all my personal projects
