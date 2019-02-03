@@ -78,17 +78,17 @@ div.d {
        This project was a continuation of the robotic lawn mover v1.0, with many learnings from years of industry experience. This makes use of the most recent developments in low cost RTK GNSS receivers from Ublox. <a href="https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html"> I have started documenting this in more detail here</a><br>
 
   <p class="ex1">
-    <img src="{{ site.img_path }}/landing/CoverPhotos/3.jpg" alt="drawing" width="700" /> <br>
+    <img src="{{ site.img_path }}/landing/CoverPhotos/3.jpg" alt="drawing" width="800" /> <br>
   </p>
 
      <h2> North Aligning Map Holder </h2>
      <p class="ex1">
      <font face = "Verdana" size =" 2">Date: 2013-2014</font><br /><br>
 
-        For Mountain Biking Orienteering and Adventure racing you use what is know as "Map Holder" (see left most image) which is essentially a mechanical mechanism that holds maps and allows you to rotate the map to keep the map facing north. The idea of this project was to Electromechanical control the map holder to always stay facing north. To do this I used a magnetometer (sense magnetic north) and a stepper motor to rotate the map to stay facing north<br>
+        For Mountain Bike Orienteering and Adventure racing you often use what is known as "Map Holder" (see left most image) which is essentially a mechanical mechanism that holds maps and allows you to rotate the map to keep the map facing north. The idea of this project was to Electromechanical control the map holder to always stay facing north. To do this I used a magnetometer (sense magnetic north) and a stepper motor to rotate the map to stay facing north<br>
 
           <p class="ex1">
-    <img src="{{ site.img_path }}/landing/CoverPhotos/1.jpg" alt="drawing" width="700" /> <br>
+    <img src="{{ site.img_path }}/landing/CoverPhotos/1.jpg" alt="drawing" width="900" /> <br>
   </p>
 
 
