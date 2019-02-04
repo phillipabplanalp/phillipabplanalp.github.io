@@ -127,7 +127,7 @@ div.gallery {
         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg">
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg" width="600" height="400">
         </a>
-        <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet</div>
+        <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet on the right</div>
       </div>
 
       <div class="gallery">
@@ -151,29 +151,29 @@ div.gallery {
          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/1.jpg">
            <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/1.jpg" alt="Cinque Terre" width="600" height="400">
          </a>
-         <div class="desc">Starting demolition of old bathroom</div>
+         <div class="desc">GNSS receiver and LoRa Transceiver for RTK (real time kinematics) correction data </div>
        </div>
 
        </div>
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.jpg">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.jpg" alt="Forest" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.JPG">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.JPG" alt="Forest" width="600" height="400">
          </a>
-         <div class="desc">Old shower having been removed</div>
+         <div class="desc">5 x BLDC motor driver</div>
        </div>
 
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/5.png">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/5.png" width="600" height="400">
          </a>
-         <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet</div>
+         <div class="desc">Initial PCB layout of GNSS and LoRa Module</div>
        </div>
 
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.jpg">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.jpg" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.png">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.png" width="600" height="400">
          </a>
-         <div class="desc">Add a description of the image here</div>
+         <div class="desc">GNSS schematics</div>
        </div>
        <br clear="all" /><br />  
 
