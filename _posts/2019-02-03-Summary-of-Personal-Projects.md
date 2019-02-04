@@ -94,7 +94,6 @@ div.gallery {
 
 
 </style>
-</head>
 <body>
 <div class = "d">
 
@@ -107,40 +106,39 @@ div.gallery {
       I bought a house in Palmerston North mid 2015 and have been doing a number of renovations to it over this period. I'm currently busy renovating the bathroom. <br>
 
 
-<! ---- Images Section --------!>
 
       <div class="center">
       <div class="gallery">
-        <a target="blank" href="img_5terre.jpg">
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/1.jpg">
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/1.jpg" alt="Cinque Terre" width="600" height="400">
         </a>
-        <div class="desc">Add a description of the image here</div>
+        <div class="desc">Starting demolition of old bathroom</div>
       </div>
 
       </div>
       <div class="gallery">
-        <a target="blank" href="img_forest.jpg">
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/2.jpg">
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/2.jpg" alt="Forest" width="600" height="400">
         </a>
-        <div class="desc">Add a description of the image here</div>
+        <div class="desc">Old shower having been removed</div>
       </div>
 
       <div class="gallery">
-        <a target="blank" href="img_lights.jpg">
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg>
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg" width="600" height="400">
         </a>
-        <div class="desc">Add a description of the image here</div>
+        <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet</div>
       </div>
 
       <div class="gallery">
-        <a target="blank" href="img_mountains.jpg">
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/4.jpg">
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/4.jpg" width="600" height="400">
         </a>
         <div class="desc">Add a description of the image here</div>
       </div>
       <br clear="all" /><br />  
 
-<! ---- End of Images Section --------!>      
+
 
 
       <h2>Robotic Lawn Mower v2.0</h2>
@@ -148,9 +146,36 @@ div.gallery {
       <font face = "Verdana" size =" 2">Date: 2018-Ongoing</font><br><br>
        This project was a continuation of the robotic lawn mover v1.0, with many learnings from years of industry experience. This makes use of the most recent developments in low cost RTK GNSS receivers from Ublox. <a href="https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html"> I have started documenting this in more detail here</a><br>
 
-  <p class="ex1">
-    <img src="{{ site.img_path }}/landing/CoverPhotos/3.jpg" alt="drawing" width="800" /> <br>
-  </p>
+       <div class="center">
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/1.jpg">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/1.jpg" alt="Cinque Terre" width="600" height="400">
+         </a>
+         <div class="desc">Starting demolition of old bathroom</div>
+       </div>
+
+       </div>
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.jpg">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.jpg" alt="Forest" width="600" height="400">
+         </a>
+         <div class="desc">Old shower having been removed</div>
+       </div>
+
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg>
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg" width="600" height="400">
+         </a>
+         <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet</div>
+       </div>
+
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.jpg">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.jpg" width="600" height="400">
+         </a>
+         <div class="desc">Add a description of the image here</div>
+       </div>
+       <br clear="all" /><br />  
 
      <h2> North Aligning Map Holder </h2>
      <p class="ex1">
@@ -158,41 +183,6 @@ div.gallery {
 
         For Mountain Bike Orienteering and Adventure racing you often use what is known as "Map Holder" (see left most image) which is essentially a mechanical mechanism that holds maps and allows you to rotate the map to keep the map facing north. The idea of this project was to Electromechanical control the map holder to always stay facing north. To do this I used a magnetometer (sense magnetic north) and a stepper motor to rotate the map to stay facing north<br>
 
-
-<! ---- Images Section --------!>
-
-      <div class="center">
-      <div class="gallery">
-        <a target="blank" href="img_5terre.jpg">
-          <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-
-      </div>
-      <div class="gallery">
-        <a target="blank" href="img_forest.jpg">
-          <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-
-      <div class="gallery">
-        <a target="blank" href="img_lights.jpg">
-          <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-
-      <div class="gallery">
-        <a target="blank" href="img_mountains.jpg">
-          <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-      <br clear="all" /><br />  
-
-<! ---- End of Images Section --------!>      
 
 
      <h2> Electroluminescent Driver </h2>
