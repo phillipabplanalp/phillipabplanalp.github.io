@@ -134,7 +134,7 @@ div.gallery {
         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/4.jpg">
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/4.jpg" width="600" height="400">
         </a>
-        <div class="desc">Add a description of the image here</div>
+        <div class="desc">Built a small corner retaining wall</div>
       </div>
       <br clear="all" /><br />  
 
