@@ -28,11 +28,12 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name:
     - name:
-  desc: Passionate about Robotics | Enjoy Outdoor Activities – MTB – Tramping – Skiing | Studied Mechatronics | Dual Citizen - New Zealand and Switzerland | Avid Formula One Fan | Hard Worker | Adventure Travel Enthusiast | Bilingual - English and Swiss German      # Describe yourself.
+  desc: Passionate about Robotics | Enjoy Outdoor Activities – MTB – Tramping – Skiing | Studied Mechatronics | Dual Citizen - New Zealand and Switzerland | Avid Formula One Fan | Strong Work Ethic | Adventure Travel Enthusiast | Bilingual - English and Swiss German      # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #  name: Phillip
+
 
 # analytics
 ## google analytics
