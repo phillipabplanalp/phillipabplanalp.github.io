@@ -124,7 +124,7 @@ div.gallery {
       </div>
 
       <div class="gallery">
-        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg>
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg">
           <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg" width="600" height="400">
         </a>
         <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet</div>
@@ -163,7 +163,7 @@ div.gallery {
        </div>
 
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg>
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg">
            <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/3.jpg" width="600" height="400">
          </a>
          <div class="desc">Entropy! New shower and toilet on the left and old shower and toilet</div>
