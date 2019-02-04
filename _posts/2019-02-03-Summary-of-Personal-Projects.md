@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Summary"
+title:  "Summary of Personal Projects"
 date:   2019-02-03
 desc: ""
 keywords: ""
@@ -53,14 +53,48 @@ h2{
   margin-left: auto;
    margin-right: auto;
   max-width: 800px;
-  margin-bottom:0
+    padding-top:0px;
+
+
+  margin-bottom:1;
 }
 div.d {
   text-align: justify;
-}
+  }
+
+div.gallery {
+    margin: auto;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    float: centre;
+
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  .center {
+    width: 100%;
+  margin-left: auto;
+   margin-right: auto;
+  max-width: 800px;
+  margin-top:0;
+  margin-bottom:15px;
 
 
 </style>
+</head>
 <body>
 <div class = "d">
 
@@ -70,11 +104,48 @@ div.d {
       <h2>House Renovations</h2>
       <p class="ex1">
       <font face = "Verdana" size =" 2">Date: 2015-2019</font><br /><br>
-      I bought a house in Palmerston North in mid 2015 and have been doing a number of renovations to it over this period. I'm currently busy renovating the bathroom. <br>
+      I bought a house in Palmerston North mid 2015 and have been doing a number of renovations to it over this period. I'm currently busy renovating the bathroom. <br>
+
+
+<! ---- Images Section --------!>
+
+      <div class="center">
+      <div class="gallery">
+        <a target="blank" href="img_5terre.jpg">
+          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/1.jpg" alt="Cinque Terre" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      </div>
+      <div class="gallery">
+        <a target="blank" href="img_forest.jpg">
+          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/2.jpg" alt="Forest" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="blank" href="img_lights.jpg">
+          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/3.jpg" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="blank" href="img_mountains.jpg">
+          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/4.jpg" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+      <br clear="all" /><br />  
+
+<! ---- End of Images Section --------!>      
+
 
       <h2>Robotic Lawn Mower v2.0</h2>
       <p class="ex1">
-      <font face = "Verdana" size =" 2">Date: 2018-Ongoing</font><br /><br>
+      <font face = "Verdana" size =" 2">Date: 2018-Ongoing</font><br><br>
        This project was a continuation of the robotic lawn mover v1.0, with many learnings from years of industry experience. This makes use of the most recent developments in low cost RTK GNSS receivers from Ublox. <a href="https://phillipabplanalp.github.io/robotics/2018/11/12/Robotic-Lawn-Mower.html"> I have started documenting this in more detail here</a><br>
 
   <p class="ex1">
@@ -87,9 +158,41 @@ div.d {
 
         For Mountain Bike Orienteering and Adventure racing you often use what is known as "Map Holder" (see left most image) which is essentially a mechanical mechanism that holds maps and allows you to rotate the map to keep the map facing north. The idea of this project was to Electromechanical control the map holder to always stay facing north. To do this I used a magnetometer (sense magnetic north) and a stepper motor to rotate the map to stay facing north<br>
 
-          <p class="ex1">
-    <img src="{{ site.img_path }}/landing/CoverPhotos/1.jpg" alt="drawing" width="900" /> <br>
-  </p>
+
+<! ---- Images Section --------!>
+
+      <div class="center">
+      <div class="gallery">
+        <a target="blank" href="img_5terre.jpg">
+          <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      </div>
+      <div class="gallery">
+        <a target="blank" href="img_forest.jpg">
+          <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="blank" href="img_lights.jpg">
+          <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="blank" href="img_mountains.jpg">
+          <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+      <br clear="all" /><br />  
+
+<! ---- End of Images Section --------!>      
 
 
      <h2> Electroluminescent Driver </h2>
@@ -98,12 +201,17 @@ div.d {
 
        This project used a 3.7V (Li-Po) input and stepped it up to 60V square wave AC.  It used custom buck boost with a H – Bridge to generate the AC .<br>
 
+
+
      <h2> Final Year Uni Project </h2>
      <div> <p class="ex1">
      <font face = "Verdana" size =" 2">Date: 2012</font><br /><br>
          <a href="https://drive.google.com/open?id=0B0ZJQaZUAgXhRVVOZDRtRVVPMGVhZ0NuT1o3eFJqMTdwMWZZ"> Copy of the report can be found here </a>
        </p>
       </div>
+
+
+
 
      <h2> Robotic Lawn Mower v1.0</h2>
      <p class="ex1">
@@ -112,6 +220,8 @@ div.d {
 
       During my second year Uni summer break I had started on a robotic lawn mower project. This involved designing and building 2 x 200W H-Bridges as well as designing and building a sub frame around an existing lawn mower.
         <br>
+
+
 
       <h2> Engine Dyno </h2>
       <p class="ex1">
@@ -127,10 +237,12 @@ div.d {
        This was designed and built by my brother(12y) and I(14y) to carry two karts + spare parts. The images below show the trailer bare frame prior to it being enclosed<br>
 
 
+
        <h2>Radio-Controlled Model Airplane</h2>
        <p class="ex1">
        <font face = "Verdana" size =" 2">Date: 2001-2002 </font><br /><br>
        Built an ethanol-powered radio-controlled model airplane from a kitset (11y). <br>
+
 
 
 
