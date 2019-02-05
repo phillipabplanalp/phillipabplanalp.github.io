@@ -296,13 +296,28 @@ div.gallery {
          </a>
          <div class="desc">Frame close to being completed in our parents’ workshop!</div>
        </div>
-
+       
+        <br clear="all" /><br />  
 
        <h2>Radio-Controlled Model Airplane</h2>
        <p class="ex1">
        <font face = "Verdana" size =" 2">Date: 2001-2002 </font><br /><br>
        Built an ethanol-powered radio-controlled model airplane from a kitset (11y). <br>
 
+       <div class="center">
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/1.jpg">
+           <img src="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/1.jpg" width="700" height="450">
+         </a>
+         <div class="desc">Trailer being tested before enclosing it</div>
+       </div>
+
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/2.JPG">
+           <img src="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/2.JPG" width="700" height="450">
+         </a>
+         <div class="desc">Frame close to being completed in our parents’ workshop!</div>
+       </div>
 
 
 
