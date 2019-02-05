@@ -90,7 +90,7 @@ div.gallery {
    margin-right: auto;
   max-width: 800px;
   margin-top:0;
-  margin-bottom:15px;
+  margin-bottom:0px;
 
 
 </style>
@@ -201,7 +201,7 @@ div.gallery {
 
         <div class="gallery">
           <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/3.jpg">
-            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.jpg" width="700" height="450">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/3.jpg" width="700" height="450">
           </a>
           <div class="desc">Test PCB with stepper motor</div>
         </div>
@@ -229,7 +229,23 @@ div.gallery {
          <a href="https://drive.google.com/open?id=0B0ZJQaZUAgXhRVVOZDRtRVVPMGVhZ0NuT1o3eFJqMTdwMWZZ"> Copy of the report can be found here </a>
        </p>
       </div>
+      <div class="center">
+      <div class="gallery">
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Final Year Uni Project/1.jpg">
+          <img src="{{ site.img_path }}/blog/Project Photos/Final Year Uni Project/1.jpg" width="700" height="450">
+        </a>
+        <div class="desc">Differential steer robot</div>
+      </div>
 
+      <div class="gallery">
+        <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Final Year Uni Project/2.jpg">
+          <img src="{{ site.img_path }}/blog/Project Photos/Final Year Uni Project/2.jpg" width="700" height="450">
+        </a>
+        <div class="desc">Brushed DC motors, Motor Drivers, MCU, GPS and Magnetometer</div>
+      </div>
+
+
+      <br clear="all" /><br />  
 
 
 
@@ -238,9 +254,19 @@ div.gallery {
      <font face = "Verdana" size =" 2">Date: 2010</font><br /><br>
 
 
-      During my second year Uni summer break I had started on a robotic lawn mower project. This involved designing and building 2 x 200W H-Bridges as well as designing and building a sub frame around an existing lawn mower.
+      During my second year Uni summer break, I had started a robotic lawn mower project. This involved designing and building 2 x 200W H-Bridges as well as designing and building a sub frame around an existing lawn mower.
         <br>
 
+        <div class="center">
+        <div class="gallery">
+          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v1.0/1.jpg">
+            <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v1.0/1.jpg" width="700" height="450">
+          </a>
+          <div class="desc">Old lawn mower fixed to a subframe</div>
+        </div>
+
+
+        <br clear="all" /><br />  
 
 
       <h2> Engine Dyno </h2>
@@ -256,6 +282,20 @@ div.gallery {
 
        This was designed and built by my brother(12y) and I(14y) to carry two karts + spare parts. The images below show the trailer bare frame prior to it being enclosed<br>
 
+       <div class="center">
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/1.jpg">
+           <img src="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/1.jpg" width="700" height="450">
+         </a>
+         <div class="desc">Trailer being tested before enclosing it</div>
+       </div>
+
+       <div class="gallery">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/2.JPG">
+           <img src="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/2.JPG" width="700" height="450">
+         </a>
+         <div class="desc">Frame close to being completed in our parents’ workshop!</div>
+       </div>
 
 
        <h2>Radio-Controlled Model Airplane</h2>
