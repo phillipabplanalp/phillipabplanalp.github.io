@@ -102,7 +102,7 @@ div.gallery {
 
       <h2>House Renovations</h2>
       <p class="ex1">
-      <font face = "Verdana" size =" 2">Date: 2015-2019</font><br /><br>
+      <font face = "blank" size =" 2">Date: 2015-2019</font><br /><br>
       I bought a house in Palmerston North mid 2015 and have been doing a number of renovations to it over this period. I'm currently busy renovating the bathroom. <br>
 
 
@@ -110,7 +110,7 @@ div.gallery {
       <div class="center">
       <div class="gallery">
         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/1.jpg">
-          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/1.jpg" alt="Cinque Terre" width="600" height="400">
+          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/1.jpg" width="600" height="400">
         </a>
         <div class="desc">Starting demolition of old bathroom</div>
       </div>
@@ -118,7 +118,7 @@ div.gallery {
       </div>
       <div class="gallery">
         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/House_Renovations/2.jpg">
-          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/2.jpg" alt="Forest" width="600" height="400">
+          <img src="{{ site.img_path }}/blog/Project Photos/House_Renovations/2.jpg" width="600" height="400">
         </a>
         <div class="desc">Old shower having been removed</div>
       </div>
@@ -148,41 +148,71 @@ div.gallery {
 
        <div class="center">
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/1.jpg">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/1.jpg" alt="Cinque Terre" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/1.jpg">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/1.jpg" width="600" height="400">
          </a>
          <div class="desc">GNSS receiver and LoRa Transceiver for RTK (real time kinematics) correction data </div>
        </div>
 
        </div>
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.JPG">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/2.JPG" alt="Forest" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/2.JPG">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/2.JPG" width="600" height="400">
          </a>
          <div class="desc">5 x BLDC motor driver</div>
        </div>
 
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/5.png">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/5.png" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/5.png">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/5.png" width="600" height="400">
          </a>
          <div class="desc">Initial PCB layout of GNSS and LoRa Module</div>
        </div>
 
        <div class="gallery">
-         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.png">
-           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower/4.png" width="600" height="400">
+         <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/4.png">
+           <img src="{{ site.img_path }}/blog/Project Photos/Robotic Lawn Mower v2.0/4.png" width="600" height="400">
          </a>
          <div class="desc">GNSS schematics</div>
        </div>
        <br clear="all" /><br />  
 
-     <h2> North Aligning Map Holder </h2>
+     <h2> Automated MTB Map Holder </h2>
      <p class="ex1">
      <font face = "Verdana" size =" 2">Date: 2013-2014</font><br /><br>
 
         For Mountain Bike Orienteering and Adventure racing you often use what is known as "Map Holder" (see left most image) which is essentially a mechanical mechanism that holds maps and allows you to rotate the map to keep the map facing north. The idea of this project was to Electromechanical control the map holder to always stay facing north. To do this I used a magnetometer (sense magnetic north) and a stepper motor to rotate the map to stay facing north<br>
 
+        <div class="center">
+        <div class="gallery">
+          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/1.jpg">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/1.jpg" width="700" height="450">
+          </a>
+          <div class="desc">Test PCB with stepper motor</div>
+        </div>
+
+        </div>
+        <div class="gallery">
+          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/2.JPG">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/2.JPG" width="700" height="450">
+          </a>
+          <div class="desc">Exploded view of complete assembly</div>
+        </div>
+
+        <div class="gallery">
+          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.png">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.png" width="700" height="450">
+          </a>
+          <div class="desc">PCB CAD model</div>
+        </div>
+
+        <div class="gallery">
+          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/4.png">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/4.png" width="1300" height="600">
+          </a>
+          <div class="desc">Stepper motor schematics</div>
+        </div>
+        <br clear="all" /><br />  
 
 
      <h2> Electroluminescent Driver </h2>
