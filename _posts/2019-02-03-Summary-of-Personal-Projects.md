@@ -200,7 +200,7 @@ div.gallery {
         </div>
 
         <div class="gallery">
-          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.jpg">
+          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/3.jpg">
             <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.png" width="700" height="450">
           </a>
           <div class="desc">Test PCB with stepper motor</div>
