@@ -188,27 +188,27 @@ div.gallery {
           <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/1.jpg">
             <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/1.jpg" width="700" height="450">
           </a>
-          <div class="desc">Existing Manual Map Holders</div>
+          <div class="desc">Existing manual map holder</div>
         </div>
 
         </div>
         <div class="gallery">
           <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/2.jpg">
-            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/2.JPG" width="700" height="450">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/2.jpg" width="700" height="450">
           </a>
           <div class="desc">Exploded view of complete assembly</div>
         </div>
 
         <div class="gallery">
           <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/3.jpg">
-            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.png" width="700" height="450">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/5.jpg" width="700" height="450">
           </a>
           <div class="desc">Test PCB with stepper motor</div>
         </div>
 
         <div class="gallery">
           <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/4.jpg">
-            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/4.png" width="1300" height="600">
+            <img src="{{ site.img_path }}/blog/Project Photos/Automated MTB Map Holder/4.jpg" width="1300" height="600">
           </a>
           <div class="desc">Stepper motor schematics</div>
         </div>
