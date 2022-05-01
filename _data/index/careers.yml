@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
+    detail: Rocket Factory Augsburg (Germany)
+    i18n: company_a
+  desc:
+    detail: I worked at RFA for 3 years developing a range of avioincs systems including engine control node, thrust vector controller and tank level sensor
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2012 - Dec. 2018
+    i18n: company_a_date
+  job:
+    detail: Hardware Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+-name:
     detail: Beta Solutions Ltd (New Zealand)
     i18n: company_a
   desc:
