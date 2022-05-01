@@ -300,7 +300,7 @@ div.gallery {
          <a target="blank" href="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/2.JPG">
            <img src="{{ site.img_path }}/blog/Project Photos/Enclosed Kart Racing Trailer/2.JPG" width="700" height="450">
          </a>
-         <div class="desc">Frame close to being completed in our parents’ workshop!</div>
+         <div class="desc">Frame close to being completed. All work being done in our parents’ workshop!</div>
        </div>
 
         <br clear="all" /><br />  
