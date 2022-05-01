@@ -1,57 +1,71 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Beta Solutions Ltd (New Zealand)
+    detail: Rocket Factory Augsburg
     i18n: company_a
   desc:
-    detail: I worked at Beta Solutions Ltd as a Hardware Engineer for around 6 years. During this period I've been involved in developing a range of products and projects from home automation products through to agri tech projects.
+    detail:
     i18n: company_a_desc
   date:
-    detail: Nov. 2012 - Dec. 2018
+    detail: April. 2019 - April. 2022
     i18n: company_a_date
   job:
-    detail: Hardware Engineer
+    detail: Avioincs Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Kiwi Lodge (Switzerland)
+    detail: Beta Solutions Ltd (New Zealand)
     i18n: company_b
   desc:
-    detail: I had an opportunity to take extended leave from my job in NZ and work part time at a Ski lodge in Switzerland (called the Kiwi Lodge). This job involved cleaning, helping with food preparation and general operations.
+    detail: I worked at Beta Solutions Ltd as a Hardware Engineer for around 6 years. During this period I've been involved in developing a range of products and projects from home automation products through to agri tech projects.
     i18n: company_b_desc
   date:
-    detail: Dec. 2015 - Feb. 2016
-    i18n: company_b_date
+    detail: Nov. 2012 - Dec. 2018
+    i18n: company_ab_date
   job:
-    detail: Cleaner and Food Preperation
+    detail: Hardware Engineer
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Massey University (New Zealand)
+    detail: Kiwi Lodge (Switzerland)
     i18n: company_c
   desc:
-    detail: Studied Bachelor of Engineering Majoring in Mechatronics
+    detail: I had an opportunity to take extended leave from my job in NZ and work part time at a Ski lodge in Switzerland (called the Kiwi Lodge). This job involved cleaning, helping with food preparation and general operations.
     i18n: company_c_desc
   date:
-    detail: Feb. 2009 - Nov. 2012
+    detail: Dec. 2015 - Feb. 2016
     i18n: company_c_date
   job:
-    detail: Student
+    detail: Cleaner and Food Preperation
     i18n: company_c_job
   icon: fa-plus-square
 
 - name:
-    detail: University of Limerick (Ireland)
+    detail: Massey University (New Zealand)
     i18n: company_d
   desc:
-    detail: I studied for one semester at the University of Limerick on an IEEE exchange scholarship
+    detail: Studied Bachelor of Engineering Majoring in Mechatronics
     i18n: company_d_desc
   date:
-    detail: Aug. 2011 - Dec. 2011 (One Semester)
+    detail: Feb. 2009 - Nov. 2012
     i18n: company_d_date
   job:
     detail: Student
     i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Limerick (Ireland)
+    i18n: company_e
+  desc:
+    detail: I studied for one semester at the University of Limerick on an IEEE exchange scholarship
+    i18n: company_e_desc
+  date:
+    detail: Aug. 2011 - Dec. 2011 (One Semester)
+    i18n: company_e_date
+  job:
+    detail: Student
+    i18n: company_e_job
   icon: fa-plus-square
